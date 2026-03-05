@@ -1,7 +1,7 @@
 import { ReactTyped } from "react-typed";
 import pic1 from "../assets/6.jpeg"; 
 
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 
 function Home() {
   return (
