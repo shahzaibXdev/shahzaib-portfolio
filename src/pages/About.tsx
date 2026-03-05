@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom";
+
 import pic2 from "../assets/7.jpg"; 
 
 function About() {
